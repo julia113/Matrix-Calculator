@@ -1,6 +1,6 @@
-//Julia Ni
-//juni
-//pa2
+Julia Ni
+juni
+pa2
 
 Sparse.c - reads input and outputs calculations to output file
 Matrix.c - functions that calculate matrix operations
